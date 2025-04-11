@@ -1,0 +1,2 @@
+Parallel/* filter=lfs diff=lfs merge=lfs -text
+Serial/* filter=lfs diff=lfs merge=lfs -text
